@@ -1,3 +1,5 @@
+// UNIVERSIDAD TECNICA DEL NORTE
+// Chicaiza Jefferson
 #include <stdio.h>
 
 int main() {
