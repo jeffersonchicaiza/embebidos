@@ -1,4 +1,5 @@
-
+// UNIVERSIDAD TECNIA DEL NORTE
+// Chicaiza Jefferson
 
 #include <LiquidCrystal.h> // Incluye la Libreria LiquidCrystal
 
